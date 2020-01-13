@@ -1,0 +1,11 @@
+learning python:
+strings
+integers
+for loop
+while loop
+list
+tuple
+dictionary
+input
+function
+class
